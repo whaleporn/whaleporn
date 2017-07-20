@@ -1,14 +1,13 @@
-h1 {
-  color: #333333;
-  font-family: 'MS PGothic', Osaka, Arial, sans-serif;
+h1, img {
   width: 30%;
-  margin-left: 1.66%;
-  border-bottom: 2px solid #f1f1f1;
-  padding-bottom: 20px;
+  margin: 1.66%;
+}
+
+h1 {
+  font-family: 'Noto Sans', sans-serif;
+  border-bottom: 1px solid #cccccc;
 }
 
 img {
-  width: 30%;
-  margin: 1.66%;
   float: left;
 }
